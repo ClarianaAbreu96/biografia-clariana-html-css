@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    line-height: 2;
+    color: #eeef;
+    background:linear-gradient(45deg, #090909, #301973);
+}
+
+hr{
+
+display: inline-block;
+width: 100%;
+margin: 0%;
+
+}
+
+
+a:hover{
+   color: #090909;
+}
+
+
+.resumo{
+    line-height: normal;
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 10%;
+    
+}
+
+.contato{
+   
+    text-align: center;
+
+}
+
+.formações{
+
+position: relative;
+margin-left: 220px;
+display: grid;
+width: 1000px;
+border:solid 5px gray;
+background: rgba(235 0 255 0.11);
+
+}
+
+
+.bottom-container{
+
+    padding-top: 3%;
+    line-height: 3;
+    
+}
