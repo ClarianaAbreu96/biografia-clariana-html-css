@@ -3,6 +3,8 @@ Site pessoal em HTML + CSS (atualizado)
 
 Esse projeto foi onde eu aprendi mais sobre posicionamento de elementos e estilização de conteúdo
 
+HTML
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -135,6 +137,7 @@ Esse projeto foi onde eu aprendi mais sobre posicionamento de elementos e estili
         <td>⭐⭐⭐⭐⭐</td>
     </tr>  
      <tr>
+    
     
         <td>Design</td>
         <td>⭐⭐⭐⭐⭐</td>
